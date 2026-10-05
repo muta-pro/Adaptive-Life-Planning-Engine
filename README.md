@@ -1,3 +1,5 @@
+This project is originally created by muta-pro, imutavdz as Codam student. All Right Reserved 2026. 
+
 # SKROV — Adaptive Life Planning Engine
 
 SKROV recommends one bounded next action from your life domains, current cycle,
