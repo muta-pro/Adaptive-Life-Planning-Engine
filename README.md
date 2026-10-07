@@ -121,6 +121,7 @@ instead of being reset. This small local adapter assumes one command writes a
 workspace at a time; it does not provide concurrent editing or cloud sync.
 
 - [Python learning guide](docs/python-guide.md), with a suggested reading order.
+- [Context handoff for a new Codex chat](docs/CODEX_CONTEXT.md), including decisions and current implementation state.
 - [Architecture and milestone scope](docs/architecture.md).
 - [Guidance for Codex and contributors](AGENTS.md).
 - [Original exploratory CLI prototype](docs/reference/README.md), preserved as reference.
